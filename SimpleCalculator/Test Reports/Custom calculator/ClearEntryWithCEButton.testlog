@@ -1,0 +1,18 @@
+﻿ ClearEntryWithCEButton
+  No source available
+   Duration: 4.7 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (1.3s)
+    And the user adds negative 9 and 2 point 5 and pi
+    -> done: CustomCalculator.GivenTheUserAddsNegative9And2Point5AndPi() (1.0s)
+    And the user clicks on the CE button
+    -> done: CustomCalculator.GivenTheUserClicksOnTheCEButton() (0.1s)
+    And the user enters the number 7
+    -> done: AdvancedCalculator.GivenTheUserEntersTheNumber7() (0.1s)
+    When the user clicks on the equals sign
+    -> done: BasicCalculator.WhenTheUserClicksOnTheEqualsSign() (0.1s)
+    Then the result is 0 point 5
+    -> done: CustomCalculator.ThenTheResultIs0Point5() (0.1s)
+    

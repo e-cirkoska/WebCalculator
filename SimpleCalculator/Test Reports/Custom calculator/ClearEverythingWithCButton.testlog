@@ -1,0 +1,16 @@
+﻿ ClearEverythingWithCButton
+  No source available
+   Duration: 4.2 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.8s)
+    And the user multiplies 25 by 6 and subtracts 12
+    -> done: CustomCalculator.GivenTheUserMultiplies25By6AndSubtracts12() (1.0s)
+    And the user clicks on the C button
+    -> done: CustomCalculator.GivenTheUserClicksOnTheCButton() (0.1s)
+    Then the result is 0
+    -> done: CustomCalculator.ThenTheResultIs0() (0.1s)
+    And the complete calculation is deleted
+    -> done: CustomCalculator.ThenTheCompleteCalculationIsDeleted() (0.0s)
+    

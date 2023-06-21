@@ -1,0 +1,14 @@
+﻿ CalculateSquareRootOf324
+  No source available
+   Duration: 2.4 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.6s)
+    And the user enters the number 324
+    -> done: AdvancedCalculator.GivenTheUserEntersTheNumber324() (0.3s)
+    When the user clicks on the square root button
+    -> done: AdvancedCalculator.WhenTheUserClicksOnTheSquareRootButton() (0.2s)
+    Then the result is 18
+    -> done: AdvancedCalculator.ThenTheResultIs18() (0.1s)
+    

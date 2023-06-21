@@ -1,0 +1,17 @@
+{
+  "specFlow": {
+    "stepAssemblies": [
+      {
+        "assembly": "ClassLibraryElena"
+      }
+    ],
+    "bindingCulture": "en-US",
+    "featureLanguage": "en",
+    "generatorPath": "packages\\SpecFlow.3.5.29\\tools",
+    "generatorPlugin": {
+      "name": "SpecRun",
+      "path": "packages\\SpecRun.Runner.3.5.18\\tools\\specrun.exe",
+      "runtime": "SpecFlow+Runner"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿ CalculateSquarePowerOf23
+  No source available
+   Duration: 2.3 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.5s)
+    And the user enters the number 23
+    -> done: AdvancedCalculator.GivenTheUserEntersTheNumber23() (0.2s)
+    When the user clicks on the square power button
+    -> done: AdvancedCalculator.WhenTheUserClicksOnTheSquarePowerButton() (0.1s)
+    Then the result is 529
+    -> done: AdvancedCalculator.ThenTheResultIs529() (0.1s)
+    

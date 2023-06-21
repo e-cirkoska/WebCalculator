@@ -1,0 +1,12 @@
+﻿ CalculateValueOfEulerConstant
+  No source available
+   Duration: 2.1 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.6s)
+    When the user clicks on the e constant button
+    -> done: AdvancedCalculator.WhenTheUserClicksOnTheEConstantButton() (0.1s)
+    Then the result up to the 9th decimal point is correct
+    -> done: AdvancedCalculator.ThenTheResultUpToThe9ThDecimalPointIsCorrect() (0.1s)
+    

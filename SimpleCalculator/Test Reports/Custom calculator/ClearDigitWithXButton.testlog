@@ -1,0 +1,14 @@
+﻿ ClearDigitWithXButton
+  No source available
+   Duration: 5.6 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (1.3s)
+    And the user enters the number negative 985
+    -> done: CustomCalculator.GivenTheUserEntersTheNumberNegative985() (1.0s)
+    When the user clicks on the X button
+    -> done: CustomCalculator.WhenTheUserClicksOnTheXButton() (0.1s)
+    Then the entry is negative 98
+    -> done: CustomCalculator.ThenTheEntryIsNegative98() (0.1s)
+    

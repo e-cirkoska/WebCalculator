@@ -1,0 +1,18 @@
+﻿ Substract2From7
+  No source available
+   Duration: 2.2 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.5s)
+    And the user enters number 7
+    -> done: BasicCalculator.GivenTheUserEntersNumber7() (0.1s)
+    And the user clicks on the minus button
+    -> done: BasicCalculator.GivenTheUserClicksOnTheMinusButton() (0.1s)
+    And the user enters number 2
+    -> done: BasicCalculator.GivenTheUserEntersNumber2() (0.1s)
+    When the user clicks on the equals sign
+    -> done: BasicCalculator.WhenTheUserClicksOnTheEqualsSign() (0.1s)
+    Then the result is 5
+    -> done: BasicCalculator.ThenTheResultIs5() (0.0s)
+    

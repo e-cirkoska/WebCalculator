@@ -1,0 +1,12 @@
+﻿ CalculateValueOfPIConstant
+  No source available
+   Duration: 2.2 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.7s)
+    When the user clicks on the pi constant button
+    -> done: AdvancedCalculator.WhenTheUserClicksOnThePiConstantButton() (0.1s)
+    Then the result up to the 14th decimal point is correct
+    -> done: AdvancedCalculator.ThenTheResultUpToThe14ThDecimalPointIsCorrect() (0.0s)
+    

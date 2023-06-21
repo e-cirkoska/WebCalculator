@@ -1,0 +1,18 @@
+﻿ Add24And19
+  No source available
+   Duration: 3 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.5s)
+    And the user enters number 24
+    -> done: BasicCalculator.GivenTheUserEntersNumber24() (0.2s)
+    And the user clicks on the plus button
+    -> done: BasicCalculator.GivenTheUserClicksOnThePlusButton() (0.1s)
+    And the user enters number 19
+    -> done: BasicCalculator.GivenTheUserEntersNumber19() (0.2s)
+    When the user clicks on the equals sign
+    -> done: BasicCalculator.WhenTheUserClicksOnTheEqualsSign() (0.1s)
+    Then the result is 43
+    -> done: BasicCalculator.ThenTheResultIs43() (0.0s)
+    

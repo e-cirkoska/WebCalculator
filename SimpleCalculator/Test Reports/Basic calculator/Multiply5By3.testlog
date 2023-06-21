@@ -1,0 +1,18 @@
+﻿ Multiply5By3
+  No source available
+   Duration: 2.4 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.5s)
+    And the user enters number 5
+    -> done: BasicCalculator.GivenTheUserEntersNumber5() (0.2s)
+    And the user clicks on the multiply button
+    -> done: BasicCalculator.GivenTheUserClicksOnTheMultiplyButton() (0.1s)
+    And the user enters number 3
+    -> done: BasicCalculator.GivenTheUserEntersNumber3() (0.1s)
+    When the user clicks on the equals sign
+    -> done: BasicCalculator.WhenTheUserClicksOnTheEqualsSign() (0.1s)
+    Then the result is 15
+    -> done: BasicCalculator.ThenTheResultIs15() (0.0s)
+    

@@ -1,0 +1,18 @@
+﻿ Add3And8
+  No source available
+   Duration: 2.5 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.4s)
+    And the user enters number 3
+    -> done: BasicCalculator.GivenTheUserEntersNumber3() (0.2s)
+    And the user clicks on the plus button
+    -> done: BasicCalculator.GivenTheUserClicksOnThePlusButton() (0.1s)
+    And the user enters number 8
+    -> done: BasicCalculator.GivenTheUserEntersNumber8() (0.1s)
+    When the user clicks on the equals sign
+    -> done: BasicCalculator.WhenTheUserClicksOnTheEqualsSign() (0.1s)
+    Then the result is 11
+    -> done: BasicCalculator.ThenTheResultIs11() (0.0s)
+    

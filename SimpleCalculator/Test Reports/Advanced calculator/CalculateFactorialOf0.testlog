@@ -1,0 +1,14 @@
+﻿ CalculateFactorialOf0
+  No source available
+   Duration: 2.3 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.4s)
+    And the user enters the number 0
+    -> done: AdvancedCalculator.GivenTheUserEntersTheNumber() (0.1s)
+    When the user clicks on the factorial button
+    -> done: AdvancedCalculator.WhenTheUserClicksOnTheFactorialButton() (0.1s)
+    Then the result is 1
+    -> done: AdvancedCalculator.ThenTheResultIs1() (0.1s)
+    

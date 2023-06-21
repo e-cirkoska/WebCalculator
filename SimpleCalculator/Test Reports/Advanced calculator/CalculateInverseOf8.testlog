@@ -1,0 +1,14 @@
+﻿ CalculateInverseOf8
+  No source available
+   Duration: 2.4 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.8s)
+    And the user enters the number 8
+    -> done: AdvancedCalculator.GivenTheUserEntersTheNumber8() (0.1s)
+    When the user clicks on the inverse button
+    -> done: AdvancedCalculator.WhenTheUserClicksOnTheInverseButton() (0.1s)
+    Then the result is 0 point 125
+    -> done: AdvancedCalculator.ThenTheResultIs0point125() (0.1s)
+    

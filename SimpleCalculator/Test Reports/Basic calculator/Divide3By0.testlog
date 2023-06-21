@@ -1,0 +1,18 @@
+﻿ Divide3By0
+  No source available
+   Duration: 2.3 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.5s)
+    And the user enters number 3
+    -> done: BasicCalculator.GivenTheUserEntersNumber3() (0.1s)
+    And the user clicks on the divide button
+    -> done: BasicCalculator.GivenTheUserClicksOnTheDivideButton() (0.1s)
+    And the user enters number 0
+    -> done: BasicCalculator.GivenTheUserEntersNumber0() (0.1s)
+    When the user clicks on the equals sign
+    -> done: BasicCalculator.WhenTheUserClicksOnTheEqualsSign() (0.1s)
+    Then the result is invalid input
+    -> done: BasicCalculator.ThenTheResultIsInvalidInput() (0.0s)
+    

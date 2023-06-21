@@ -1,0 +1,14 @@
+﻿ CalculateFactorialOf7
+  No source available
+   Duration: 2.2 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.7s)
+    And the user enters the number 7
+    -> done: AdvancedCalculator.GivenTheUserEntersTheNumber7() (0.1s)
+    When the user clicks on the factorial button
+    -> done: AdvancedCalculator.WhenTheUserClicksOnTheFactorialButton() (0.1s)
+    Then the result is 5040
+    -> done: AdvancedCalculator.ThenTheResultIs() (0.1s)
+    

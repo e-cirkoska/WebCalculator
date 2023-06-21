@@ -1,0 +1,14 @@
+﻿ CalculateCubeRootOf2744
+  No source available
+   Duration: 2.9 sec
+
+  Standard Output: 
+    Given the user opens the calculator page
+    -> done: BasicCalculator.GivenTheUserOpensTheCalculatorPage() (0.5s)
+    And the user enters the number 2744
+    -> done: AdvancedCalculator.GivenTheUserEntersTheNumber2744() (0.5s)
+    When the user clicks on the cube root button
+    -> done: AdvancedCalculator.WhenTheUserClicksOnTheCubeRootButton() (0.1s)
+    Then the result is 14
+    -> done: AdvancedCalculator.ThenTheResultIs14() (0.1s)
+    
